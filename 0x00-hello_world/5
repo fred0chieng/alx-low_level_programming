@@ -1,0 +1,10 @@
+#include <stdio.h>
+/**
+*main - Point that acts as entry point
+*
+*Return: Always 0 when the compilation is successful
+*/
+int main(void)
+{	printf("with proper grammar, but the file is a piece of art, \n");
+	return (0);
+}
